@@ -11,5 +11,6 @@
 - venv\Scripts\activate
 
 # git init. intitalizing repo
+# testing
 
 
